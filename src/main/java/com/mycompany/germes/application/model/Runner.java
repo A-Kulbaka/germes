@@ -27,4 +27,5 @@ public class Runner {
         runner.sayHi();
 
     }
+    ацуацуацуацуацуацуацуацуац
 }
