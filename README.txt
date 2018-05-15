@@ -17,3 +17,10 @@ This is the Hello World example from the git tutorial.
 
 
 и еще........
+
+
+
+
+
+
+измененно из локального репозитория
