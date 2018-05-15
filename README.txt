@@ -7,3 +7,8 @@ This is the Hello World example from the git tutorial.
 
 
 еще одно изминение в оригинальном репозитории
+
+
+
+
+еще одно изминение для проверки работы команты pull которая обьединяет fetch and merge.
