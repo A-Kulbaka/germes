@@ -23,9 +23,14 @@ This is the Hello World example from the git tutorial.
 
 
 
+
 измененно из локального репозитория
 
 изминения на удаленном репозитории,для теста футч и мерж
 
 
 и еще для теста git pull
+
+This is the Hello World example from the git tutorial.
+(Changed in the original and pushed to shared)
+
